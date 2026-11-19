@@ -11,7 +11,11 @@
 
 body {
     font-family: Georgia, "Public Sans", serif;
-    background-color: #f4efe6;
+    background-image: url('img/mountain.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     color: #2b2b2b;
     margin: 0;
     padding: 0 20px 40px 20px;
